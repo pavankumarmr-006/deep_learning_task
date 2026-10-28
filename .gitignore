@@ -1,0 +1,6 @@
+# Python virtual environments
+.venv/
+venv/
+
+# Large fine-tuned model files
+task4-transformers/saved_distilbert/
